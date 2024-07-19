@@ -1,0 +1,185 @@
+{
+    "intents": [
+      {
+        "intent": "Greeting",
+        "examples": [
+          "Hi",
+          "Hello",
+          "Hey",
+          "Good morning",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What brings you here today?",
+          "Hey! How are you feeling today?"
+        ]
+      },
+      {
+        "intent": "Goodbye",
+        "examples": [
+          "Goodbye",
+          "Bye",
+          "See you later",
+          "Talk to you later",
+          "Catch you later"
+        ],
+        "responses": [
+          "Goodbye! Take care.",
+          "Bye! Have a great day.",
+          "See you later! Stay safe."
+        ]
+      },
+      {
+        "intent": "ThankYou",
+        "examples": [
+          "Thank you",
+          "Thanks",
+          "Thanks a lot",
+          "Thank you so much"
+        ],
+        "responses": [
+          "You're welcome!",
+          "No problem!",
+          "Glad I could help!",
+          "Anytime!"
+        ]
+      },
+      {
+        "intent": "FeelingDown",
+        "examples": [
+          "I feel sad",
+          "I'm feeling down",
+          "I'm not happy",
+          "I'm feeling low",
+          "I'm depressed"
+        ],
+        "responses": [
+          "I'm sorry to hear that you're feeling this way. Can you tell me more about what's been going on?",
+          "It sounds like you're having a tough time. What's been happening?",
+          "I'm here to listen. What has been making you feel this way?"
+        ]
+      },
+      {
+        "intent": "Anxiety",
+        "examples": [
+          "I feel anxious",
+          "I'm feeling anxious",
+          "I have anxiety",
+          "I'm worried",
+          "I'm nervous"
+        ],
+        "responses": [
+          "Anxiety can be really challenging. What seems to be causing your anxiety?",
+          "It sounds like you're feeling quite anxious. Would you like to talk about what's been making you feel this way?",
+          "I'm here for you. What has been making you feel anxious?"
+        ]
+      },
+      {
+        "intent": "Stress",
+        "examples": [
+          "I'm stressed",
+          "I feel stressed",
+          "I'm under a lot of stress",
+          "I'm overwhelmed",
+          "I can't handle this stress"
+        ],
+        "responses": [
+          "It sounds like you're dealing with a lot of stress. What's been going on?",
+          "Stress can be really tough to manage. Do you want to talk about what's causing it?",
+          "I'm here to help. What's been making you feel stressed?"
+        ]
+      },
+      {
+        "intent": "SelfHarm",
+        "examples": [
+          "I'm thinking about hurting myself",
+          "I want to harm myself",
+          "I have thoughts of self-harm",
+          "I don't want to live anymore",
+          "I'm feeling suicidal"
+        ],
+        "responses": [
+          "I'm really sorry you're feeling this way, but I'm not equipped to help with this. Please reach out to a mental health professional or a trusted person immediately.",
+          "It sounds like you're in a lot of pain. Please contact a mental health crisis line or a trusted person right away.",
+          "Your safety is very important. Please talk to a mental health professional or go to the nearest emergency room."
+        ]
+      },
+      {
+        "intent": "RelationshipIssues",
+        "examples": [
+          "I'm having relationship problems",
+          "I'm having issues with my partner",
+          "I'm fighting with my spouse",
+          "I'm going through a breakup",
+          "My partner and I are not getting along"
+        ],
+        "responses": [
+          "Relationships can be really tough sometimes. Do you want to tell me more about what's been happening?",
+          "It sounds like you're going through a rough patch. What's been going on?",
+          "I'm here to listen. What kind of issues are you facing in your relationship?"
+        ]
+      },
+      {
+        "intent": "WorkStress",
+        "examples": [
+          "I'm stressed at work",
+          "I hate my job",
+          "I'm overwhelmed with work",
+          "My job is stressing me out",
+          "I can't handle my work"
+        ],
+        "responses": [
+          "Work stress can be very overwhelming. What seems to be the main issue?",
+          "It sounds like work has been really tough. Do you want to talk about what's been happening?",
+          "I'm here for you. What aspects of your job are causing you the most stress?"
+        ]
+      },
+      {
+        "intent": "FamilyIssues",
+        "examples": [
+          "I'm having family problems",
+          "I can't get along with my family",
+          "My family is causing me stress",
+          "I'm fighting with my parents",
+          "I have issues with my siblings"
+        ],
+        "responses": [
+          "Family issues can be very challenging. What's been going on?",
+          "It sounds like you're having a tough time with your family. Do you want to talk about it?",
+          "I'm here to listen. What kind of issues are you facing with your family?"
+        ]
+      },
+      {
+        "intent": "SleepProblems",
+        "examples": [
+          "I can't sleep",
+          "I'm having trouble sleeping",
+          "I have insomnia",
+          "I'm not sleeping well",
+          "I can't fall asleep"
+        ],
+        "responses": [
+          "Sleep problems can be really frustrating. How long have you been experiencing this?",
+          "It sounds like you're having trouble sleeping. Do you want to talk about what's been keeping you up?",
+          "I'm here to help. What kind of sleep issues are you experiencing?"
+        ]
+      },
+      {
+        "intent": "Medication",
+        "examples": [
+          "I'm on medication",
+          "I'm taking antidepressants",
+          "I'm taking anxiety medication",
+          "I'm prescribed medication",
+          "I'm on psychiatric medication"
+        ],
+        "responses": [
+          "It's important to follow your doctor's advice regarding medication. How are you feeling with your current medication?",
+          "Medication can be an important part of treatment. Are you experiencing any side effects?",
+          "I'm here to listen. How is your medication working for you?"
+        ]
+      }
+    ]
+  }
+  
